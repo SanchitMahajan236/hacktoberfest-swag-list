@@ -12,7 +12,14 @@ See [**Contributing.md**](./contributing.md) to see how to format your pull requ
 
 ## Sponsored By:
 
-No one currently! Interested in having a prominent placement for your open source project on one of the highest-trafficed Hacktoberfest-related sites? [Find my links here](https://chandlerweiner.com/aboutme/).
+[![tscircuit logo](img/tscircuit-transparent.png)](https://tscircuit.com/?utm_source=hacktoberfestswaglist&utm_medium=website&utm_campaign=logo)
+
+[tscircuit](https://tscircuit.com/?utm_source=hacktoberfestswaglist&utm_medium=website&utm_campaign=list) [(GitHub)](https://github.com/tscircuit/tscircuit)
+is a framework that allows you to build electronic circuit boards,
+schematics and PCB layouts with React, Typescript and AI tools. We do live stream
+development and love to chat with contributors on our [discord](https://tscircuit.com/join).
+Check out our [Hacktoberfest Getting Started Guide](https://blog.tscircuit.com/p/build-electronics-with-typescript).
+MIT-licensed open-source
 
 ## Swag List 2024
 
@@ -32,6 +39,44 @@ No one currently! Interested in having a prominent placement for your open sourc
 
 ### A
 
+#### **Airbyte**
+
+- **Swag**: Cash prizes or swag (Mug, cap, windbreaker,etc) from their store.
+- **Requirements**:
+    - Build a connector from the [pre-defined list](https://github.com/orgs/airbytehq/projects/46) or suggest a new connector.
+    - Build the connector using Connector Builder in Airbyte Cloud using AI assistant.
+    - Each merged connector will be rewarded $50.
+    - Top 6 most connectors merged will receive cash prizes starting from $4,000 to $400 to the 6th place winner.
+    - Each cash prize can be redeemed as swag or cash.
+- **How to sign up**: No special signup required.
+- **Issues**:
+    - [Pre-defined list](https://github.com/orgs/airbytehq/projects/46) of required connectors.
+    - [Instructions](https://github.com/airbytehq/airbyte/discussions/46267) to suggest a new connector for the Hackathon.
+- **Notes**: Check [Airbyte 1.0 Hacktoberfest: Connector Builder Challenge](https://airbyte.com/community/connector-hackathon) for more details.
+
+#### **Animata**
+
+- **Swag**: $50 reward through a raffle system
+- **Requirements**:
+    - Contribute to the open issues labeled `hacktoberfest`.
+    - Ensure your PR follows the [contributing guidelines](https://www.animata.design/docs/contributing).
+    - Link to the issue number in your PR and add relevant labels.
+    - Based on the difficulty of easy, medium, hard or advanced, earn 1,2,3 or 4 entries respectively in the raffle.
+    - Maximum of 5 entries per user for the raffle.
+    - You must be able to receive international payments via platforms like PayPal.
+- **How to sign up**: No signup needed.
+- **Issues**: Open issues with label `hacktoberfest` on the [Github Project Board](https://github.com/orgs/codse/projects/37/views/2).
+- **Notes**: Read the [Animata Design Blog post](https://animata.design/blog/hacktoberfest-2024) for more details.
+
+#### **AntennaPod**
+
+- **Swag**: Stickers
+- **Requirements**:
+    - Two/more PRs that close an issue.
+    - Both code or no-code contributions are accepted
+- **How to sign up**: No known signup steps.
+- **Notes**: Check out their [blog](https://antennapod.org/blog/2024/10/hacktoberfest-2024) for more details
+
 #### **Appwrite**
 
 - **Swag**:
@@ -40,6 +85,16 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **Requirements**: Create a brand-new project using Appwrite, specifically one that is creative and innovative.
 - **How to sign up**: Join the hackathon with up to 4 people total [by going here](https://hacktoberfest.appwrite.io/).
 - **Notes**: Read the [Hacktoberfest 2024 hackathon blog post here](https://appwrite.io/blog/post/appwrite-hacktoberfest-hackathon-2024).
+
+#### **Asgardeo React SDK**
+
+- **Swag**: Amazon vouchers, WSO2 Practitioner/Developer certification vouchers, $1,000 Asgardeo credits (valid for 12 months) based on the complexity of the issue.
+- **Requirements**:
+    - $25 Amazon voucher: Issues marked as good first issue.
+    - $50 Amazon voucher: For other issues.
+- **How to sign up**: No signup link known.
+- **Issues**: Look for issues tagged  as `hacktoberfest` [here](https://github.com/asgardeo/asgardeo-auth-react-sdk/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest).
+- **Notes**:  Read the [announcement post](https://github.com/asgardeo/asgardeo-auth-react-sdk/blob/main/HACKTOBERFEST.md) for more details.
 
 #### **Auth0 by Okta**
 
@@ -60,12 +115,31 @@ No one currently! Interested in having a prominent placement for your open sourc
 
 ### C
 
+#### **Chimoney**
+
+- **Swag**: Digital Badge, Reward of $10, T-shirt.
+- **Requirements**: All contributions earn a digital badge, meaningful PRs earn $10, and 4 merged PRs for substantial contributions earn a t-shirt.
+- **How to sign up**:
+    - Sign up for an Chimoney Developer Account to get the API Keys to get started. [For more info](https://community-chimoney.hashnode.dev/getting-started-with-chimoneys-api-chiconnect).
+    - For technical writers, please submit your PR in the [submissions/dev-focused-articles](https://github.com/Chimoney/chimoney-community-projects/tree/main/submissions/Dev%20focused%20articles) folder.
+    - For other contributions, submit your PR in the general [submissions](https://github.com/Chimoney/chimoney-community-projects/tree/main/submissions) folder
+- **Issues**: List of available [issues](https://github.com/Chimoney/chimoney-community-projects/issues).
+- **Notes**: Check out their [README](https://github.com/Chimoney/chimoney-community-projects?tab=readme-ov-file#chimoney-rewards) for more info.
+
 #### **Cloudinary**
 
 - **Swag**: T-shirt, Stickers, Cloudinary unicorn.
 - **Requirements**: Make a valid PRs in eligible Cloudinary libraries and SDKs. The first 50 eligible submissions will receive a Swag Kit.
 - **How to sign up**: No special signup known.
 - **Notes**: [Visit Cloudinary](https://cloudinary.com/blog/hacktoberfest-open-source-celebration-cloudinary) for the list of eligible libraries and SDKs.
+
+#### **Composio**
+
+- **Swag**: Stickers, T-shirt
+- **Requirements**: 4 accepted/merged PRs against `hacktoberfest` topics in any of the Composio repositories.
+- **How to sign up**: No signup link known
+- **Issues**: [Hacktoberfest tagged issues in the Composio repo](https://github.com/ComposioHQ/composio/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest)
+- **Notes**: [Check out their announcement post for more information.](https://github.com/ComposioHQ/composio/blob/master/HACKTOBER_FEST_2024.md)
 
 #### **Configu**
 
@@ -77,6 +151,16 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **How to sign up**: No special signup known.
 - **Issues**: Contribute to any issue in the [Configu Repository](https://github.com/configu/configu).
 - **Notes**: Check out this [GitHub Issue](https://github.com/configu/configu/issues/465) for more details.
+
+#### **CopilotKit**
+
+- **Swag**: CopilotKit swag
+- **Requirements**:
+    - Create innovative demos for CopilotKit to earn points from 0 to 100 based on creativity, practicality, quality and UI/UX.
+    - Swag is only available if you complete a demo.
+- **How to sign up**: No signup needed.
+- **Issues**: [Open issues](https://github.com/CopilotKit/CopilotKit/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen+label%3Ahacktoberfest) with demo ideas with label `hacktoberfest`.
+- **Notes**: Check out the [announcement post](https://github.com/CopilotKit/CopilotKit/tree/main/community/content) for more details.
 
 #### **Crawlee for Python**
 
@@ -96,6 +180,59 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **Requirements**: Submit two pull requests to qualifying Wichita projects
 - **How to sign up**: [Sign into your GitHub account here](https://hacktoberfest.devict.org/) and submit two meaningful PRs to the projects on that page.
 - **Notes**: N/A
+
+#### **DevFest AI**
+
+- **Swag**: Hoddie, backpack, bottle, cap etc
+- **Requirements**:
+    - Contribute as a solo member or as a squad.
+    - Contribute to AI-based repositories or repositories that have AI features created before October with more than 200 stars.
+    - Earn a point with each merged PR.
+    - Top 20 squads will be announced winners.
+- **How to sign up**: Sign up at [DevFestAI](https://devfest.ai/) with a maximum of 5 members.
+- **Notes**: Read more at [DevFest AI](https://devfest.ai/) for more information and attend exclusive events.
+
+#### **DocsGPT**
+
+- **Swag**: T-shirt
+- **Requirements**: Top contributors will be rewarded with swag. You can contribute in various ways:
+    - Make meaningful contributions through PRs.
+    - Build an app using DocsGPT API.
+    - Make non-code contributions like improving docs or creating a guide.
+    - Improve UI/UX or design a new feature.
+    - Blog or create a video showcasing DocsGPT
+    - After contributing fill this [form](https://airtable.com/appikMaJwdHhC1SDP/pagoblCJ9W29wf6Hf/form).
+- **How to sign up**: No signup needed.
+- **Issues**: Check out [open issues](https://github.com/arc53/DocsGPT/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen) and [roadmap](https://github.com/orgs/arc53/projects/2).
+- **Notes**: Read the [announcement post](https://github.com/arc53/DocsGPT/blob/main/HACKTOBERFEST.md) for more details.
+
+#### **dstack**
+
+- **Swag**: up to $500 GPU credits to use with dstack Sky.
+- **Requirements**:
+    - Fix eligible open issues.
+    - Only quality contributions will be reviewed and merged.
+    - $15 bounty to fix a minor issue
+    - $100 bounty to fix a major issue
+    - $500 bounty to fix an advanced issue
+- **How to sign up**: No signup needed
+- **Issues**: [Open issues](https://github.com/dstackai/dstack/issues/1735) of all levels.
+- **Notes**: Checkout the [announcement post](https://github.com/dstackai/dstack/issues/1735) for more details.
+
+### E
+
+#### **Esri**
+
+- **Swag**: Esri Summit registration and discounts
+    - 1st Place: Free registration to one Esri Summit of your choice from the following: Esri European Developer Summit 2024, Esri Developer & Technology Summit 2025, or Esri European Developer Summit 2025.Developer Summit 2025.
+    - 2nd Place: 75% discount on Esri Summit registration (same event options as above).
+    - 3rd Place: 50% discount on Esri Summit registration (same event options as above).
+- **Requirements**:
+    - At least one merged PR solving either "good first issue" or "help wanted" issue in any Esri-designated project
+    - You can earn points for only one “good first issue” per person.
+- **Requirements**: [See detailed contest rules here](https://www.esri.com/arcgis-blog/wp-content/uploads/2024/10/2024-Esri-Hacktoberfest-Contest-Official-Rules-2.pdf).
+- **How to sign up**: No signup required.
+- **Notes**: Read the full blog post with all the details [here](https://www.esri.com/arcgis-blog/products/developers/developers/hacktoberfest-2024-contribute-to-open-source-and-win/)
 
 ### F
 
@@ -117,7 +254,25 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **How to sign up**: [Fill out this form](https://forms.gle/go2VESj7kDG1QUqV7).
 - **Notes**: See their [full Hacktoberfest page here](https://community.gradle.org/events/hacktoberfest/2024/). The team prepared some [Featured Projects](https://community.gradle.org/events/hacktoberfest/2024/#featured-projects) you can participate in.
 
+#### **GUAC**
+
+- **Swag**: GUAC swag
+- **Requirements**: Make a successful PR to any of the two participating repos, [GUAC Docs](https://github.com/guacsec/guac-docs) and [GUAC Visualizer](https://github.com/guacsec/guac-visualizer).
+- **How to sign up**: No signup needed
+- **Issues**:
+    - [Open issues](https://github.com/guacsec/guac-docs/issues) at GUAC Docs repo.
+    - [Open issues](https://github.com/guacsec/guac-visualizer/issues) at GUAC Visualizer
+- **Notes**: Read the [GUAC announcement](https://guac.sh/blog/2024-09-25-hacktoberfest/) for more details.
+
 ### H
+
+#### **Hiero**
+
+- **Swag**: T-shirt
+- **Requirements**: Contribute to any of the open issues from Hiero repos from beginner to advanced difficulty.
+- **How to sign up**: No signup needed.
+- **Issues**: List of available [open issues](https://hiero.org/hacktoberfest/)
+- **Notes**: Check out the [announcement post](https://hiero.org/hacktoberfest/) for more details or join their [GitHub discussion](https://github.com/orgs/LFDT-Hiero/discussions) to get any of your questions answered.
 
 #### **Hyperswitch**
 
@@ -153,6 +308,18 @@ No one currently! Interested in having a prominent placement for your open sourc
       - Once you’ve made your contributions, tweet or post on social media tagging @todayJavaScript with the hashtag #Hacktoberfest2024, and a link to your GH profile or PRs.
       - Send them an email with your contributions at: <contact@javascripttoday.com>.
 - **Notes**: See the [JSToday Hacktoberfest blog post](https://javascripttoday.com/blog/hacktoberfest-2024-free-sticker/) for more information
+
+### K
+
+#### Kairos
+
+- **Swag**: T-shirt and stickers.
+- **Requirements**:
+    - Make any successful PR in any of their repos or raise a PR for any ticket with `hacktoberfest` label.
+    - First 10 contributions will be rewarded with Kairos t-shirts and stickers.
+- **How to sign up**: No signup known.
+- **Issues**: Issues with [`hacktoberfest` label.](https://github.com/kairos-io/kairos/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest)
+- **Notes**: Read the [announcement post](https://kairos.io/blog/2024/10/07/hacktoberfest-2024/) for more details.
 
 ### L
 
@@ -194,7 +361,126 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **How to sign up**:  Sign up at [Modtoberfest](https://modtoberfest.com/api/auth/signin) to track your progress.
 - **Notes**: FAQ and rules available at [Modtoberfest](https://modtoberfest.com/).
 
+#### **Multiwoven**
+
+- **Swag**: Merch and certificate of contribution
+- **Requirements**:
+    - Fix issues tagged with `hacktoberfest`
+    - Complete three approved PRs to earn the Multiwoven swag.
+    - Top contributors will be rewarded special rewards.
+- **How to sign up**: No signup needed.
+- **Issues**: Issues [tagged for hacktoberfest](https://github.com/Multiwoven/multiwoven/issues?ref=blog.squared.ai).
+- **Notes**: Read the [ai squared blog](https://blog.squared.ai/hacktoberfest-2024-celebrate-open-source-with-multiwoven/) for details.
+
+### O
+
+#### **oss.gg**
+
+- **Swag**: MacBook, iPhone, PlayStation, AirPods, Keyboard and a brick
+- **Requirements**:
+    - Complete [code](https://oss.gg/code) and [non-code](https://oss.gg/non-code) contributions to get points.
+    - Each point is a lottery ticket.
+    - Lottery happens on 31st October 2024
+- **How to sign up**: Sign up at [oss.gg](https://oss.gg/signup)
+- **Issues**:
+    - All [open issues](https://oss.gg/oss-issues).
+    - [Side quests and challenges](https://oss.gg/)
+- **Notes**: Read [oss.gg](https://oss.gg/) for more information.
+
+### P
+
+#### **Portkey**
+
+- **Swag**: AirPods Pro (2nd generation), Portkey AI Swag Box, T-shirts and more.
+- **Requirements**:
+    - Make 2+ successful contributions to win a Portkey AI Swag Box with T-shirts and more.
+    - Top contributors will win a pair of AirPods Pro (2nd Generation).
+- **How to sign up**: No signup needed
+- **Issues**: Issues [tagged with hacktoberfest](https://github.com/Portkey-AI/gateway/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest) label.
+- **Notes**: Visit [Portkey blog](https://portkey.ai/blog/portkey-hacktoberfest-24/) for more information.
+
+#### **Postiz**
+
+- **Swag**: T-shirt.
+- **Requirements**:
+  - You must create an issue before making a pull request.
+  - You can also ask to be assigned to an issue. During Hacktoberfest, each issue can have multiple assignees.
+  - We have to approve the issue and add a "hacktoberfest" tag.
+  - We encourage everybody to contribute to all types of issues. We will only send swag for issues with features and bug fixes (no typos, sorry).
+- **How to sign up**: No separate signup known
+- **Issues**: All [open issues](https://github.com/gitroomhq/postiz-app/issues)
+- **Notes**: Read the [announcement post](https://github.com/gitroomhq/postiz-app#we-participate-in-hacktoberfest-2024-) for more information.
+
+### Q
+
+#### **Owncast**
+
+- **Swag**: Digital badge, Owncast [t-shirt](https://gabekangas.typeform.com/to/Wfx9UHVZ?typeform-source=owncast.online), the contributors thank-you video on [Owncast TV](https://watch.owncast.online/)
+- **Requirements**:
+    - Make quality contributions to Owncast (e.g. fix a bug, write useful documentation, create content around Owncast)
+    - Get 4 pull/merge requests accepted during Hacktoberfest to level up your digital badge
+    - Quality contributions earn a t-shirt
+- **How to sign up**: [Sign up to get your t-shirt swag here.](https://gabekangas.typeform.com/to/Wfx9UHVZ?typeform-source=owncast.online)
+- **Issues**: Look for [Good First Issues](https://github.com/owncast/owncast/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+- **Notes**: Read the [Owncast Contributor Guide](https://owncast.online/docs/contributing/) and for more info check their blog post [here](https://owncast.online/hacktoberfest/).
+
+#### **QuestDB**
+
+- **Swag**: T-shirt for contributors.
+- **Requirements**: Contribute to one of the three participating repositories:
+    - [QuestDB Core](https://github.com/questdb/questdb/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+    - [Web Console](https://github.com/questdb/ui/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+    - [Documentation](https://github.com/questdb/documentation/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+- **How to sign up**: No known signup method.
+- **Notes**: QuestDB is participating in Hacktoberfest 2024. Contributors to any of the three repositories are eligible to win a T-shirt. Check their Hacktoberfest blog post [here](https://questdb.io/blog/hacktoberfest-2024-questdb/).
+
+#### **QuickBlok**
+
+- **Swag**: T-shirt, hoodie, backpack and bottle.
+- **Requirements**:
+    - Create a Project using QuickBlok.
+    - Create a short demo video demonstrating your project's functionality.
+    - Upload your project to Github in a public repo.
+    - Submit your project repo at [QuickBlok Hacktoberfest Challenge repo.](https://github.com/QuickBlox/quickblox-hacktoberfest-challenge)
+    - Once your PR is successfully merged, [fill this form](https://docs.google.com/forms/d/e/1FAIpQLSc5g4um52B-8MQOVXgse_V3JMgyX6dIC7hVbrl_Uck4IcLEiQ/viewform) to claim your prize.
+- **How to sign up**: Register for the [QuickBlok Hacktoberest Challenge.](https://quickblox-26787421.hs-sites-eu1.com/hacktoberfest-challenge24)
+- **Notes**: Read the [QuickBlok Hacktoberfest Challenge page](https://quickblox.com/blog/quickblox-hacktoberfest-challenge/) for more getting started, submission guide and FAQs.
+
 ### R
+
+#### **Razorpay**
+
+- **Swag**:  Razorpay special goodies.
+- **Requirements**:
+    - Contribute to any of the [Razorpay repositories.](https://github.com/orgs/razorpay/repositories)
+    - After your PR is accepted, [fill this form](https://forms.gle/fFNqHE4q88E2orrK7) to receive your swag.
+    - Swag will be shipped only within India.
+- **How to sign up**: No signup needed.
+- **Issues**: All the open [open issues](https://github.com/search?q=org%3Arazorpay+is%3Aissue+is%3Aopen&type=issues) at Razorpay.
+- **Notes**: Read the [Razorpay Hacktoberfest](https://opensource.razorpay.com/hacktoberfest-2024/) page for more details.
+
+#### **Refact.ai**
+
+- **Swag**: 3 months of free access to the Refact.ai tool
+- **Requirements**: Have 1 accepted PR's to [Refact-lsp repository](https://github.com/smallcloudai/refact-lsp)
+- **How to sign up**: No separate signup known.
+- **Notes**: Know more on the [open issues](https://github.com/smallcloudai/refact-lsp/issues)
+
+#### **Reflex**
+
+- **Swag**: Multiple cash rewards between $50 to $300, swag, and pro hosting service voucher.
+- **Requirements**: Complete any of the tasks to win
+    - Best use of AG Grid component.
+    - Build the most aesthetic Reflex app.
+    - Build an app that improves DX of the dev workflow.
+    - Wrap various React components in Reflex.
+- **How to sign up**: No signup needed
+- **Issues**:
+    - [$300 Wrap Reactflow](https://github.com/reflex-dev/reactflow).
+    - [$250 Wrap React Email](https://github.com/resend/react-email).
+    - [$200 Wrap Altair Charts](https://altair-viz.github.io/)
+    - [$200 Wrap Bokeh Charts](https://bokeh.org/)
+- **Notes**: Read the [Reflex Dev Hacktoberfest](https://github.com/reflex-dev/hacktoberfest) for more details.
 
 #### **Robo.js**
 
@@ -214,6 +500,16 @@ No one currently! Interested in having a prominent placement for your open sourc
 
 ### T
 
+#### **Taipy**
+
+- **Swag**: Stickers, Bottle, Hoodie, Mousepad, and Bag.
+- **Requirements**: Contribute to issues labled `hacktoberfest` in [Taipy GitHub Repository](https://github.com/Avaiga/taipy) to earn points.
+    - 100 points: Stickers + Bottle
+    - 200 points: Stickers + Scott Hoodie + Mousepad
+    - 300 points: Stickers + Jack & Jones Hoodie + Bag
+- **How to sign up**: No specific signup mentioned.
+- **Notes**: [Checkout their HacktoberFest notion page for additional info](https://assorted-son-815.notion.site/HacktoberFest-2024-with-Taipy-2a5032a3f01642709e88ffaa5d0d169e).
+
 #### **TBD**
 
 - **Swag**:
@@ -223,7 +519,31 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **How to sign up**: No specific signup mentioned. Contribute to participating repos.
 - **Notes**: [Checkout their Hacktoberfest Github page for additional info](https://github.com/TBD54566975/developer.tbd.website/issues/1680).
 
+#### **Tolgee**
+
+- **Swag**: Stickers, Socks, T-shirts
+- **Requirements**: Submit a pull request addressing issues tagged with `#hacktoberfest` or create a demo project (e.g. React, Angular, Vue, Svelte, PHP, Flutter, Ruby, iOS, Android) using Tolgee. Projects will be scored 10-50 based on quality, UX, creativity, and usefulness:
+  - 30 - 40 points - Sticker
+  - 40 - 45 points - Sticker + Socks
+  - 45 - 50 points - Sticker + Socks + T-shirt
+- **Learn More**: Check [Tolgee GitHub Repo](https://github.com/tolgee/tolgee-platform/blob/main/Hacktobefest2024.md)
+
+#### **TruffleHog**
+
+- **Swag**: Laptop, backpack, swag or equal value Amazon gift card.
+- **Requirements**:
+    - Contribute to improving their existing Detectors in the [trufflehog](https://github.com/trufflesecurity/trufflehog) repo.
+    - Each merged PR will be rewarded with 1 point.
+    - Top three point earners will be announced as the winners.
+    - First Prize: 13-inch MacBook Air(M3) or $1,000 Amazon Gift Card.
+    - Second Prize: Timbuk2 Backpack or $300 Amazon Gift Card.
+    - Third Prize: Custom TruffleHog Swag or $100 Amazon Gift Card.
+- **How to sign up**: No specific signup mentioned.
+- **Notes**: Read the [Truffle Security blog post](https://trufflesecurity.com/blog/hacktoberfest-2024-detector-improvement-competition-at-truffle-security) for more details.
+
 #### **tscircuit**
+
+[![tscircuit small logo](img/tscircuit-small-removebg-preview.png)](https://tscircuit.com/?utm_source=hacktoberfestswaglist&utm_medium=website&utm_campaign=logolist)
 
 - **Swag**: Hats, Hoodies
 - **Requirements**:
@@ -246,6 +566,21 @@ No one currently! Interested in having a prominent placement for your open sourc
     - Code contribution (high-code): Turbot Hacktoberfest T-shirt
 - **How to sign up**: No known signup link.
 - **Notes**: [Check out theirblog post here](https://turbot.com/blog/2024/09/hacktoberfest-2024).
+
+### W
+
+#### **WrenAI**
+
+- **Swag**: T-shirt and cap.
+- **Requirements**: Contribute to WrenAI in any of the following ways
+    - Fix open issues with [`hacktoberfest` label.](https://github.com/Canner/WrenAI/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+    - Add new data sources from the list of [requested sources.](https://github.com/Canner/WrenAI/discussions/327)
+    - Start a discussion on their [Discord](https://discord.gg/Eg7VY6nYY5) to contribute to UI/UX improvements or features.
+    - Make sure you resolve all the suggestions made by the Wren AI contributors to finalize your contribution.
+- **How to sign up**: No known signup link.
+- **Notes**:
+    - Read the [contribution guidelines](https://github.com/Canner/WrenAI/blob/main/CONTRIBUTING.md) before you start developing.
+    - Read the [announcement](https://getwren.ai/wren-ai-hacktoberfest-2024) for more details.
 
 ---
 
